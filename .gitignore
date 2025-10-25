@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+src/.env
+
+data_mining/data/
+data_mining/model/
+eda/food.parquet
+db/
+model/

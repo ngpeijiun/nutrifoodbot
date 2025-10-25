@@ -1,0 +1,34 @@
+# Runtime & analysis dependencies
+dask
+duckdb
+h5py
+implicit
+matplotlib
+networkx
+numpy
+pandas
+pyarrow
+pydantic
+python-dotenv
+scikit-learn
+scikit-surprise
+seaborn
+streamlit
+
+# LangChain stack
+langchain
+langchain-core
+langchain-openai
+langgraph
+
+# Notebook execution support (data_mining/)
+nbclient
+nbconvert
+nbformat
+ipywidgets
+
+# Dev & tooling
+black
+faker
+pytest
+ruff
