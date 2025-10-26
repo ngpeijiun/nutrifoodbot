@@ -28,4 +28,4 @@ To run the full data pipeline, execute:
 ./run_pipeline.sh
 ```
 
-If you need to rerun any pipeline steps, download the `food.parquet` file and place it in the `eda/` directory.
+If you need to rerun any pipeline steps, download the `food.parquet` file from [this link](https://huggingface.co/datasets/openfoodfacts/product-database/tree/main) and place it in the `eda/` directory.
